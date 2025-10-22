@@ -1,11 +1,11 @@
 package DefaultModifier;
 
-import modifiers.DefaultAccess;
+//import modifiers.DefaultAccess;
 
 public class AccessDefault {
 
 	public static void main(String[] args) {
-		DefaultAccess a = new DefaultAccess();
+		//DefaultAccess a = new DefaultAccess();
 		//a.display();	
 		}
 
