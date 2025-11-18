@@ -1,4 +1,4 @@
-package DefaultModifier;
+package defaultModifier;
 
 //import modifiers.DefaultAccess;
 

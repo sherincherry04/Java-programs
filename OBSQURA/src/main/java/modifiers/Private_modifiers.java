@@ -7,7 +7,7 @@ public class Private_modifiers {
  //}
    
 	public static void main(String[] args) {
-		Private_modifiers p = new Private_modifiers();
+		//Private_modifiers p = new Private_modifiers();
 		//p.tell();
 				
 		
